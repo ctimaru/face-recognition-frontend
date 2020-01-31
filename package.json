@@ -1,6 +1,6 @@
 {
   "name": "face_recognition",
-  "homepage": "https://ctimaru.github.io/face_recognition-frontend",
+  "homepage": "https://ctimaru.github.io/face-recognition-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
